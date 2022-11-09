@@ -35,6 +35,11 @@ impl Solution {
                 p2 = p2.unwrap().next;
             }
             let val = sum % 10;
+            // below method of calling is both ok
+            // method 1
+            // p.as_mut().unwrap().next = Some(Box::new(ListNode::new(val)));
+            // p = p.unwrap().next().as_mut();
+            // method 2
             if let Some(cur) = p {
                 cur.next = Some(Box::new(ListNode::new(val)));
                 p = cur.next.as_mut();
