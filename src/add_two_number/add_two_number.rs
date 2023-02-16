@@ -12,7 +12,9 @@ impl ListNode {
     }
 }
 
-pub impl Solution {
+pub struct Solution;
+
+impl Solution {
     pub fn add_two_numbers(
         l1: Option<Box<ListNode>>,
         l2: Option<Box<ListNode>>,
@@ -48,4 +50,12 @@ pub impl Solution {
         }
         dummy.unwrap().next
     }
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    #[test]
+    fn test_add_two_numbers() {}
 }
