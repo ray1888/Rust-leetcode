@@ -5,3 +5,4 @@ pub mod s0102_level_travel;
 pub mod s0111_min_depth;
 pub mod two_sum;
 pub mod zigzag;
+pub mod s0146_lru;
