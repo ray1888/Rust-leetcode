@@ -8,3 +8,5 @@ pub mod zigzag;
 pub mod s0146_lru;
 pub mod s0155_min_stack;
 pub mod s0208_trie_tree;
+pub mod s0480_median_sliding_windows;
+pub mod s0295_median_finder;
