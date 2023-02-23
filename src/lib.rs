@@ -11,3 +11,4 @@ pub mod s0208_trie_tree;
 pub mod s0480_median_sliding_windows;
 pub mod s0295_median_finder;
 pub mod s0007_reverse_int;
+pub mod s0006_n_covert;
