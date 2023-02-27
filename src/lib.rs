@@ -2,6 +2,7 @@ pub mod s0006_n_covert;
 pub mod s0007_reverse_int;
 pub mod s0021_merge_link_list;
 pub mod s0022_generate_parenthesis;
+pub mod s0024_swap_linklist_node;
 pub mod s0102_level_travel;
 pub mod s0111_min_depth;
 pub mod s0146_lru;
