@@ -9,6 +9,7 @@ pub mod s0111_min_depth;
 pub mod s0146_lru;
 pub mod s0148_linked_list_sort;
 pub mod s0155_min_stack;
+pub mod s0160_cross_linked_list;
 pub mod s0208_trie_tree;
 pub mod s0295_median_finder;
 pub mod s0480_median_sliding_windows;
