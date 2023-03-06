@@ -18,6 +18,7 @@ pub mod s0198_robbet_i;
 pub mod s0208_trie_tree;
 pub mod s0213_robbery_ii;
 pub mod s0295_median_finder;
+pub mod s0300_max_increase_sub_array;
 pub mod s0369_plus_one;
 pub mod s0480_median_sliding_windows;
 
