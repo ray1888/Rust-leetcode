@@ -19,8 +19,10 @@ pub mod s0208_trie_tree;
 pub mod s0213_robbery_ii;
 pub mod s0295_median_finder;
 pub mod s0300_max_increase_sub_array;
+pub mod s0322_coin_change_i;
 pub mod s0369_plus_one;
 pub mod s0480_median_sliding_windows;
+pub mod s0518_coin_change_ii;
 
 pub mod add_two_number;
 pub mod is_palindrome_link_list;
