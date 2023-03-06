@@ -24,3 +24,40 @@ impl Solution {
         return max_value;
     }
 }
+
+impl Solution {
+    fn bsearch(d: &Vec<i32>, arrLength: i32, lastestNum: i32) -> i32 {
+        let mut low = 0;
+        let mut high = arrLength -1 ;
+        while low <= high {
+            let mid = low + (high-low) / 2;
+            if lastestNum > d[mid as usize] {
+                low = mid+1;
+            } else if lastestNum < d[mid as usize] {
+                high = mid-1;
+            } else {
+               return mid;
+            }
+        }
+        return low; 
+    }
+
+    pub fn length_of_lis2(nums: Vec<i32>) -> i32 {
+        if nums.len() == 0 {
+            return 0;
+        }
+        let mut dp :Vec<i32> = vec!(0;nums.len());
+        let mut arr_length = 0;
+
+        for i in 0..nums.len(){
+            let index = Solution::bsearch(&dp, arr_length, nums[i]);
+            println!("i={:?}, index={:?}",i,index);
+            dp[index as usize] = nums[i];
+            if index == arr_length{
+                arr_length +=1;
+            }
+        }
+
+        return arr_length;
+    }
+}
