@@ -1,3 +1,4 @@
+pub mod s0005_longest_palindrome_string;
 pub mod s0006_n_covert;
 pub mod s0007_reverse_int;
 pub mod s0021_merge_link_list;
