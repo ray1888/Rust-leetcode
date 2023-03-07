@@ -24,6 +24,7 @@ pub mod s0322_coin_change_i;
 pub mod s0369_plus_one;
 pub mod s0480_median_sliding_windows;
 pub mod s0518_coin_change_ii;
+pub mod s0647_palindrome_string_count;
 
 pub mod add_two_number;
 pub mod is_palindrome_link_list;
