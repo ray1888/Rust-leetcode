@@ -6,6 +6,8 @@ pub mod s0022_generate_parenthesis;
 pub mod s0023_merge_k_linked_list;
 pub mod s0024_swap_linklist_node;
 pub mod s0053_max_value;
+pub mod s0062_route_num;
+pub mod s0063_route_num_ii;
 pub mod s0072_edit_distance;
 pub mod s0083_delete_duplicate_in_linked_list;
 pub mod s0102_level_travel;
