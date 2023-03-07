@@ -10,6 +10,7 @@ pub mod s0062_route_num;
 pub mod s0063_route_num_ii;
 pub mod s0072_edit_distance;
 pub mod s0083_delete_duplicate_in_linked_list;
+pub mod s0091_decode_way;
 pub mod s0102_level_travel;
 pub mod s0111_min_depth;
 pub mod s0120_triangle_path_sum;
