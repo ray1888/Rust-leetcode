@@ -5,6 +5,7 @@ pub mod s0021_merge_link_list;
 pub mod s0022_generate_parenthesis;
 pub mod s0023_merge_k_linked_list;
 pub mod s0024_swap_linklist_node;
+pub mod s0046_permutation;
 pub mod s0053_max_value;
 pub mod s0062_route_num;
 pub mod s0063_route_num_ii;
