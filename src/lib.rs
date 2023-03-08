@@ -16,6 +16,7 @@ pub mod s0102_level_travel;
 pub mod s0111_min_depth;
 pub mod s0120_triangle_path_sum;
 pub mod s0121_stock_price_i;
+pub mod s0131_parlindrome_partition;
 pub mod s0146_lru;
 pub mod s0148_linked_list_sort;
 pub mod s0152_max_product;
