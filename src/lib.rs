@@ -1,6 +1,8 @@
 pub mod s0005_longest_palindrome_string;
 pub mod s0006_n_covert;
 pub mod s0007_reverse_int;
+pub mod s0015_3sum;
+pub mod s0016_3sum_closest;
 pub mod s0021_merge_link_list;
 pub mod s0022_generate_parenthesis;
 pub mod s0023_merge_k_linked_list;
