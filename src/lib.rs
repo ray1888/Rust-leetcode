@@ -9,6 +9,7 @@ pub mod s0022_generate_parenthesis;
 pub mod s0023_merge_k_linked_list;
 pub mod s0024_swap_linklist_node;
 pub mod s0033_find_in_rotated_array;
+pub mod s0034_find_start_and_end_in_array;
 pub mod s0039_given_sum;
 pub mod s0046_permutation;
 pub mod s0050_my_pow;
