@@ -9,6 +9,7 @@ pub mod s0023_merge_k_linked_list;
 pub mod s0024_swap_linklist_node;
 pub mod s0039_given_sum;
 pub mod s0046_permutation;
+pub mod s0050_my_pow;
 pub mod s0053_max_value;
 pub mod s0062_route_num;
 pub mod s0063_route_num_ii;
@@ -37,6 +38,7 @@ pub mod s0369_plus_one;
 pub mod s0480_median_sliding_windows;
 pub mod s0518_coin_change_ii;
 pub mod s0647_palindrome_string_count;
+pub mod s0704_binary_search;
 
 pub mod add_two_number;
 pub mod is_palindrome_link_list;
