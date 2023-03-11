@@ -23,6 +23,7 @@ pub mod s0102_level_travel;
 pub mod s0111_min_depth;
 pub mod s0120_triangle_path_sum;
 pub mod s0121_stock_price_i;
+pub mod s0125_valid_palindrome;
 pub mod s0131_parlindrome_partition;
 pub mod s0146_lru;
 pub mod s0148_linked_list_sort;
@@ -43,6 +44,7 @@ pub mod s0369_plus_one;
 pub mod s0480_median_sliding_windows;
 pub mod s0518_coin_change_ii;
 pub mod s0647_palindrome_string_count;
+pub mod s680_valid_palindrome_ii;
 pub mod s0704_binary_search;
 
 pub mod add_two_number;
