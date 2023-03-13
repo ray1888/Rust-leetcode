@@ -8,6 +8,8 @@ impl Solution {
             return 0;
         }
         let length = s.len();
+        let s = s.as_bytes();
+        // 用于保存s(0..i-1)分割成回文字符串的最少次数
         let mut cut = vec![0;length+1];
         let mut dp = vec![vec![false; s.len()]; s.len()];
         
@@ -17,9 +19,9 @@ impl Solution {
                 if i == j {
                     dp[i][j] = true;
                 } else if i+1 == j {
-                    dp[i][j] = s.chars().nth(i).unwrap() == s.chars().nth(j).unwrap() 
+                    dp[i][j] = s[i ] == s[j]; 
                 } else {
-                    dp[i][j] = s.chars().nth(i).unwrap() == s.chars().nth(j).unwrap() && dp[i+1][j-1]
+                    dp[i][j] = s[i] == s[j] && dp[i+1][j-1]
                 }
             }
         }
