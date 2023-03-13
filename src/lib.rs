@@ -28,6 +28,7 @@ pub mod s0120_triangle_path_sum;
 pub mod s0121_stock_price_i;
 pub mod s0125_valid_palindrome;
 pub mod s0131_parlindrome_partition;
+pub mod s0132_palindrome_partitioning_ii;
 pub mod s0146_lru;
 pub mod s0148_linked_list_sort;
 pub mod s0151_reverse_words_in_a_string;
