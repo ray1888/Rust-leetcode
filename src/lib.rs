@@ -44,6 +44,7 @@ pub mod s0300_max_increase_sub_array;
 pub mod s0322_coin_change_i;
 pub mod s0344_reverse_string;
 pub mod s0369_plus_one;
+pub mod s0387_first_unique_character_in_a_string;
 pub mod s0480_median_sliding_windows;
 pub mod s0518_coin_change_ii;
 pub mod s0557_reverse_words_in_a_string_iii;
