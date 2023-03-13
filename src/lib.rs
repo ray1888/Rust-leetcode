@@ -29,6 +29,7 @@ pub mod s0125_valid_palindrome;
 pub mod s0131_parlindrome_partition;
 pub mod s0146_lru;
 pub mod s0148_linked_list_sort;
+pub mod s0151_reverse_words_in_a_string;
 pub mod s0152_max_product;
 pub mod s0155_min_stack;
 pub mod s0160_cross_linked_list;
