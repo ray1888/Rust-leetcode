@@ -3,6 +3,7 @@ pub mod s0005_longest_palindrome_string;
 pub mod s0006_n_covert;
 pub mod s0007_reverse_int;
 pub mod s0008_string_to_integer_atoi;
+pub mod s0013_roman_to_integer;
 pub mod s0014_longest_common_prefix;
 pub mod s0015_3sum;
 pub mod s0016_3sum_closest;
