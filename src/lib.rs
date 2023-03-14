@@ -28,6 +28,7 @@ pub mod s0097_interleaving_string;
 pub mod s0100_same_tree;
 pub mod s0101_symmetric_tree;
 pub mod s0102_level_travel;
+pub mod s0104_maximum_depth_of_binary_tree;
 pub mod s0111_min_depth;
 pub mod s0120_triangle_path_sum;
 pub mod s0121_stock_price_i;
