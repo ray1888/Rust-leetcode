@@ -31,6 +31,8 @@ pub mod s0101_symmetric_tree;
 pub mod s0102_level_travel;
 pub mod s0103_zigzag;
 pub mod s0104_maximum_depth_of_binary_tree;
+pub mod s0105_build_tree_pre_order_and_in_order;
+pub mod s0106_build_tree_post_order_and_in_order;
 pub mod s0107_reverse_binary_level_order;
 pub mod s0111_min_depth;
 pub mod s0120_triangle_path_sum;
