@@ -1,0 +1,320 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1776135275339,
+  "projectRoot": "/Users/chen/Data/code/github/leetcode/Rust-leetcode",
+  "techStack": {
+    "languages": [
+      {
+        "name": "Rust",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "Cargo.toml"
+        ]
+      }
+    ],
+    "frameworks": [],
+    "packageManager": "cargo",
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": "cargo build",
+    "testCommand": "cargo test",
+    "lintCommand": "cargo clippy",
+    "devCommand": "cargo run",
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [
+      "src"
+    ],
+    "gitBranches": {
+      "defaultBranch": "main",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "src": {
+      "path": "src",
+      "purpose": "Source code",
+      "fileCount": 1,
+      "lastAccessed": 1776135275320,
+      "keyFiles": [
+        "lib.rs"
+      ]
+    },
+    "target": {
+      "path": "target",
+      "purpose": null,
+      "fileCount": 2,
+      "lastAccessed": 1776135275320,
+      "keyFiles": [
+        "CACHEDIR.TAG"
+      ]
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "src/lib.rs",
+      "accessCount": 6,
+      "lastAccessed": 1776152089947,
+      "type": "file"
+    },
+    {
+      "path": "src/s0094_inorder_travel/impl_code.rs",
+      "accessCount": 5,
+      "lastAccessed": 1776136842147,
+      "type": "file"
+    },
+    {
+      "path": "src/s0132_palindrome_partitioning_ii/impl_code.rs",
+      "accessCount": 4,
+      "lastAccessed": 1776135551723,
+      "type": "file"
+    },
+    {
+      "path": "src/s0102_level_travel/impl_code.rs",
+      "accessCount": 4,
+      "lastAccessed": 1776136842109,
+      "type": "file"
+    },
+    {
+      "path": "src/s0107_reverse_binary_level_order/impl_code.rs",
+      "accessCount": 4,
+      "lastAccessed": 1776136842166,
+      "type": "file"
+    },
+    {
+      "path": "src/s0144_preorder_travel/impl_code.rs",
+      "accessCount": 4,
+      "lastAccessed": 1776136842203,
+      "type": "file"
+    },
+    {
+      "path": "src/backpack_iii/impl_code.rs",
+      "accessCount": 3,
+      "lastAccessed": 1776152132772,
+      "type": "file"
+    },
+    {
+      "path": "src/s0295_median_finder/mod.rs",
+      "accessCount": 2,
+      "lastAccessed": 1776135879229,
+      "type": "file"
+    },
+    {
+      "path": "src/s0151_reverse_words_in_a_string/mod.rs",
+      "accessCount": 2,
+      "lastAccessed": 1776135879287,
+      "type": "file"
+    },
+    {
+      "path": "src/s0023_merge_k_linked_list/mod.rs",
+      "accessCount": 2,
+      "lastAccessed": 1776136279275,
+      "type": "file"
+    },
+    {
+      "path": "src/s0100_same_tree/impl_code.rs",
+      "accessCount": 2,
+      "lastAccessed": 1776136666276,
+      "type": "file"
+    },
+    {
+      "path": "src/s0062_route_num/impl.rs",
+      "accessCount": 1,
+      "lastAccessed": 1776135291132,
+      "type": "file"
+    },
+    {
+      "path": "src/s0131_parlindrome_partition/impl.rs",
+      "accessCount": 1,
+      "lastAccessed": 1776135291154,
+      "type": "file"
+    },
+    {
+      "path": "src/s0132_palindrome_partitioning_ii/impl.rs",
+      "accessCount": 1,
+      "lastAccessed": 1776135291166,
+      "type": "file"
+    },
+    {
+      "path": "src/s0120_triangle_path_sum/impl.rs",
+      "accessCount": 1,
+      "lastAccessed": 1776135291213,
+      "type": "file"
+    },
+    {
+      "path": "src/s0063_route_num_ii/impl.rs",
+      "accessCount": 1,
+      "lastAccessed": 1776135291265,
+      "type": "file"
+    },
+    {
+      "path": "src/s0647_palindrome_string_count/impl.rs",
+      "accessCount": 1,
+      "lastAccessed": 1776135291323,
+      "type": "file"
+    },
+    {
+      "path": "src/s0062_route_num/impl_code.rs",
+      "accessCount": 1,
+      "lastAccessed": 1776135388073,
+      "type": "file"
+    },
+    {
+      "path": "src/s0063_route_num_ii/impl_code.rs",
+      "accessCount": 1,
+      "lastAccessed": 1776135388279,
+      "type": "file"
+    },
+    {
+      "path": "src/s0120_triangle_path_sum/impl_code.rs",
+      "accessCount": 1,
+      "lastAccessed": 1776135388485,
+      "type": "file"
+    },
+    {
+      "path": "src/s0131_parlindrome_partition/impl_code.rs",
+      "accessCount": 1,
+      "lastAccessed": 1776135388693,
+      "type": "file"
+    },
+    {
+      "path": "src/s0647_palindrome_string_count/impl_code.rs",
+      "accessCount": 1,
+      "lastAccessed": 1776135389111,
+      "type": "file"
+    },
+    {
+      "path": "src/s0063_route_num_ii/mod.rs",
+      "accessCount": 1,
+      "lastAccessed": 1776135479060,
+      "type": "file"
+    },
+    {
+      "path": "src/s0132_palindrome_partitioning_ii/mod.rs",
+      "accessCount": 1,
+      "lastAccessed": 1776135479083,
+      "type": "file"
+    },
+    {
+      "path": "src/s0120_triangle_path_sum/mod.rs",
+      "accessCount": 1,
+      "lastAccessed": 1776135479107,
+      "type": "file"
+    },
+    {
+      "path": "src/s0062_route_num/mod.rs",
+      "accessCount": 1,
+      "lastAccessed": 1776135479120,
+      "type": "file"
+    },
+    {
+      "path": "src/s0131_parlindrome_partition/mod.rs",
+      "accessCount": 1,
+      "lastAccessed": 1776135479144,
+      "type": "file"
+    },
+    {
+      "path": "src/s0647_palindrome_string_count/mod.rs",
+      "accessCount": 1,
+      "lastAccessed": 1776135479172,
+      "type": "file"
+    },
+    {
+      "path": "src/s0813_largest_sum_of_averages/mod.rs",
+      "accessCount": 1,
+      "lastAccessed": 1776135874081,
+      "type": "file"
+    },
+    {
+      "path": "src/s0146_lru/impl_code.rs",
+      "accessCount": 1,
+      "lastAccessed": 1776135996983,
+      "type": "file"
+    },
+    {
+      "path": "Cargo.toml",
+      "accessCount": 1,
+      "lastAccessed": 1776135997035,
+      "type": "file"
+    },
+    {
+      "path": "src/s0200_number_of_islands/impl_code.rs",
+      "accessCount": 1,
+      "lastAccessed": 1776135997145,
+      "type": "file"
+    },
+    {
+      "path": "src/s0297_serialize_and_deserialize_binary_tree/impl_code.rs",
+      "accessCount": 1,
+      "lastAccessed": 1776136014903,
+      "type": "file"
+    },
+    {
+      "path": "src/s0023_merge_k_linked_list/impl.rs",
+      "accessCount": 1,
+      "lastAccessed": 1776136271064,
+      "type": "file"
+    },
+    {
+      "path": "src/s0226_invert_binary_tree/impl_code.rs",
+      "accessCount": 1,
+      "lastAccessed": 1776136666327,
+      "type": "file"
+    },
+    {
+      "path": "src/wood_split/mod.rs",
+      "accessCount": 1,
+      "lastAccessed": 1776152047670,
+      "type": "file"
+    },
+    {
+      "path": "src/wood_split/impl_code.rs",
+      "accessCount": 1,
+      "lastAccessed": 1776152047899,
+      "type": "file"
+    },
+    {
+      "path": "src/backpack_ii/mod.rs",
+      "accessCount": 1,
+      "lastAccessed": 1776152048118,
+      "type": "file"
+    },
+    {
+      "path": "src/backpack_ii/impl_code.rs",
+      "accessCount": 1,
+      "lastAccessed": 1776152048355,
+      "type": "file"
+    },
+    {
+      "path": "src/backpack_iii/mod.rs",
+      "accessCount": 1,
+      "lastAccessed": 1776152075888,
+      "type": "file"
+    },
+    {
+      "path": "src/backpack_iv/mod.rs",
+      "accessCount": 1,
+      "lastAccessed": 1776152076358,
+      "type": "file"
+    },
+    {
+      "path": "src/backpack_iv/impl_code.rs",
+      "accessCount": 1,
+      "lastAccessed": 1776152076610,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}

@@ -1,0 +1,10 @@
+{
+  "active": true,
+  "started_at": "2026-04-14T02:03:46.621Z",
+  "original_prompt": "/ralph 继续之前的需求，网络断了",
+  "session_id": "61e0aba5-2332-49f0-b200-9844cb32cc13",
+  "project_path": "/Users/chen/Data/code/github/leetcode/Rust-leetcode",
+  "reinforcement_count": 0,
+  "awaiting_confirmation": true,
+  "last_checked_at": "2026-04-14T02:03:46.621Z"
+}
